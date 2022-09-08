@@ -51,6 +51,6 @@ The user must know exactly what search criteria they are looking for (dates, cit
 
 #### Recommendations
 
-The filter would be more efficient if we add a grammar corrector, in that case, we will save more time figuring out the right spelling.
+The filter would be more efficient if we add a grammar corrector, in that case, we will save more time instead of having to figure out the right spelling.
 
-We found out that having a larger range for the date would be really helpful
+We found out that having a larger range for the date would be really helpful because if we do not have the exact date, we will not get the results we are looking for.
