@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-In this, we will be editing a webpage to display a table organizing UFO sightings.
+In this project, we will be editing a webpage to display a table organizing UFO sightings.
 In order to perform the analysis, the UFO sightings table will be filtered based on multiple criteria such as the event date, city, state, country and shape.
 JavaScript will be used to create the table, while HTML/CSS and Bootstrap to modify the website's appearance.
 
