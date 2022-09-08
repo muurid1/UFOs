@@ -32,8 +32,11 @@ JavaScript will be used to create the table, while HTML/CSS and Bootstrap to mod
 
 <img width="1435" alt="the_truth_is_out_there" src="https://user-images.githubusercontent.com/107282754/189021644-159835d9-e89b-4e0b-86ae-190ad744ed6a.png">
 
-Below, we have the 
+The image below shows how the filter appears when first landing on the page 
+
 ![filter_website  jpeg](https://user-images.githubusercontent.com/107282754/189021780-38fafdb5-a3e7-4243-963b-d40ef7e03269.png)
+
+In the image below, in the addition to the date we were able to filter for a multitude of criteria, at the same time, and we added a table filters for the city, state, country, and shapeof the UFO sightings.
 
 <img width="1260" alt="html_page_search" src="https://user-images.githubusercontent.com/107282754/189022626-40f5519c-ce99-4d79-80bc-20efe9c63d0d.png">
 
@@ -41,4 +44,8 @@ Below, we have the
 
 #### Drawback
 
+The user must know exactly what search criteria they are looking for (dates, cities, states or shapes). The filters require the right spelling. For instance, the city used in this project could not be spelled anything else other than "el cajon" in lower case.
+
 #### Recommendations
+
+The filter would be more efficeint if we add a grammar corrector, in that case, we will save more time figuring out the right spelling.
