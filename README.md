@@ -36,7 +36,7 @@ The image below shows how the filter appears when first landing on the page
 
 ![filter_website  jpeg](https://user-images.githubusercontent.com/107282754/189021780-38fafdb5-a3e7-4243-963b-d40ef7e03269.png)
 
-In the image below, in the addition to the date we were able to filter for a multitude of criteria, at the same time, and we added a table filters for the city, state, country, and shapeof the UFO sightings.
+In the image below, in the addition to the date we were able to filter for a multitude of criteria, at the same time and then we added a table filters for the city, state, country, and shape of the UFO sightings.
 
 <img width="1260" alt="html_page_search" src="https://user-images.githubusercontent.com/107282754/189022626-40f5519c-ce99-4d79-80bc-20efe9c63d0d.png">
 
@@ -51,4 +51,4 @@ The user must know exactly what search criteria they are looking for (dates, cit
 
 #### Recommendations
 
-The filter would be more efficeint if we add a grammar corrector, in that case, we will save more time figuring out the right spelling.
+The filter would be more efficient if we add a grammar corrector, in that case, we will save more time figuring out the right spelling.
