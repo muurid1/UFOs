@@ -47,8 +47,7 @@ In the image below, in the addition to the date we were able to filter for a mul
 
 The user must know exactly what search criteria they are looking for (dates, cities, states or shapes). The filters require the right spelling. For instance, the city used in this project could not be spelled anything else other than "el cajon" in lower case. (see image below)
 
-<img width="318" alt="Screen Shot 2022-09-08 at 12 34 40 PM" src="https://user-images.githubusercontent.com/107282754/189189021-2100f337-a7fd-47fc-98cc-7354f3496976.png">
-
+<img width="224" alt="filter_search" src="https://user-images.githubusercontent.com/107282754/189556388-1a8a712c-0417-40d7-8451-9119ac9f08f9.png">
 
 #### Recommendations
 
