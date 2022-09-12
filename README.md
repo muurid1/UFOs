@@ -38,7 +38,8 @@ The image below shows how the filter appears when first landing on the page
 
 In the image below, in the addition to the date we were able to filter for a multitude of criteria, at the same time and then we added a table filters for the city, state, country, and shape of the UFO sightings.
 
-<img width="1260" alt="html_page_search" src="https://user-images.githubusercontent.com/107282754/189022626-40f5519c-ce99-4d79-80bc-20efe9c63d0d.png">
+<img width="883" alt="Filter_website" src="https://user-images.githubusercontent.com/107282754/189556305-76af0083-e9f2-43d0-aba4-68e3f82142a3.png">
+
 
 ## Summary
 
