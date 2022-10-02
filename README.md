@@ -18,7 +18,7 @@ JavaScript will be used to create the table, while HTML/CSS and Bootstrap to mod
 
 • Jupyter Notebook
 
-•ECMAScript
+• ECMAScript
 
 #### Data Source
 
